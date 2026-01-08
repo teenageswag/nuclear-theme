@@ -1,19 +1,15 @@
 {
   "name": "nuclear-hippie",
-  "displayName": "Nuclear Theme",
-  "description": "#nuclearhippiemoneygang",
-  "version": "0.3.0",
-  "author": "j2cks aka nuclearhippie",
+  "displayName": "Nuclear Hippie Theme",
+  "description": "A high-contrast, harmonious dark theme for VS Code with vibrant pink accents and Atom-inspired syntax colors",
+  "version": "0.3.1",
   "publisher": "j2cks",
+  "author": {
+    "name": "j2cks",
+    "url": "https://github.com/teenageswag"
+  },
+  "license": "MIT",
   "icon": "logo.png",
-  "homepage": "https://github.com/mcagampan/nuclear-hippie",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mcagampan/nuclear-hippie"
-  },
-  "bugs": {
-    "url": "https://github.com/mcagampan/nuclear-hippie/issues"
-  },
   "engines": {
     "vscode": "^1.5.0"
   },
@@ -21,20 +17,25 @@
     "Themes"
   ],
   "keywords": [
-    "dark",
-    "nuclear theme",
+    "dark theme",
     "nuclear",
-    "nuclear theme",
-    "dark nuclear",
-    "dark nuclear theme",
-    "black",
-    "black theme",
-    "red",
-    "red theme",
+    "nuclear hippie",
     "high contrast",
+    "pink theme",
+    "crimson",
     "elegant",
-    "elegant theme"
+    "atom inspired",
+    "eye comfort",
+    "dark mode"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcagampan/nuclear-hippie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mcagampan/nuclear-hippie/issues"
+  },
+  "homepage": "https://github.com/mcagampan/nuclear-hippie#readme",
   "contributes": {
     "themes": [
       {
